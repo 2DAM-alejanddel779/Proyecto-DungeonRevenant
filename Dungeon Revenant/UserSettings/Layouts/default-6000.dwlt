@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 100
+  controlID: 38
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 420
     height: 941
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 40
+  controlID: 39
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 41
+  controlID: 40
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/00-Script/Principal
+    - Assets/01-Prefab
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -596,17 +596,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/00-Script/Principal
+  - Assets/01-Prefab
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Xeerx\Desktop\Dungeon RevenantFuncional\Dungeon Revenant\Dungeon
-    Revenant
+  m_LastProjectPath: H:\00 - Grado DAM\Proyecto-DungeonRevenant\Dungeon Revenant
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc9e0000
-    m_LastClickedID: 40700
-    m_ExpandedIDs: 000000001a9e00001c9e00001e9e0000209e0000229e0000249e0000269e0000289e00002a9e00002c9e00002e9e0000309e0000329e0000349e0000369e0000389e00003a9e00003c9e00003e9e0000409e0000429e0000449e0000469e0000489e00004a9e00004c9e0000aa9e0000
+    m_SelectedIDs: f6cf0000
+    m_LastClickedID: 53238
+    m_ExpandedIDs: 0000000066cc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -635,7 +634,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a9e00001c9e00001e9e0000209e0000229e0000249e0000269e0000289e00002a9e00002c9e00002e9e0000309e0000329e0000349e0000369e0000389e00003a9e00003c9e00003e9e0000409e0000429e0000449e0000469e0000489e00004a9e00004c9e0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,7 +662,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000ae96000030e9000094a3000026aa000000ae00002ab60000d0af00004a9a000066ae00001eab0000dab100006acd00003af80100f4f90100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -783,7 +782,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 86f2ffff98f2ffff0ef5ffff12f5ffff16f5ffff1af5ffff1ef5ffff22f5ffff26f5ffff2ef5ffffa2f5ffff78f6ffff7cf6ffff80f6ffff84f6ffff8af6ffff8ef6ffff92f6ffffacf6ffff20f7ffff0cfbffff72970000b0970000ca9700009a980000c4990000
+      m_ExpandedIDs: b815ffff901fffff3a24fffff425ffff68fe0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1359,9 +1358,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 655.0002, y: -134.00044, z: 90}
+    m_Target: {x: 3.686924, y: -0.7095766, z: 39.01076}
     speed: 2
-    m_Value: {x: 655.0002, y: -134.00044, z: 90}
+    m_Value: {x: 3.686924, y: -0.7095766, z: 39.01076}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1411,9 +1410,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 243.37611
+    m_Target: 9.048622
     speed: 2
-    m_Value: 243.37611
+    m_Value: 9.048622
   m_Ortho:
     m_Target: 1
     speed: 2
