@@ -1,0 +1,54 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+sysinfo.txt
+
+# Unity configuraciones y cache
+*.stacktrace
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de compilación
+*.dll
+*.exe
+*.apk
+*.aab
+*.app
+*.so
+*.dSYM/
+*.pdb
+
+# Backups
+*.bak
+*.old
+
+# Unity Collaborate
+.collabignore
+
+# Crash Reports
+crashlytics-build.properties
+
+# Opcional: ignora configuraciones locales
+# ProjectSettings/EditorBuildSettings.asset
+
