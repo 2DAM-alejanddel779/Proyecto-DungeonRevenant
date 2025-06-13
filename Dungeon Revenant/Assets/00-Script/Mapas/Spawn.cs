@@ -6,6 +6,6 @@ public class Spawn : MonoBehaviour
 
     void Start()
     {
-        // El Spawn no hace nada auto.
+        
     }
 }

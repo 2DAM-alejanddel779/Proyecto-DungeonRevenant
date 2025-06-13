@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 86
+  controlID: 40
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/00-Script/Enemigos/IA ENEMIGOS
+    - Assets/00-Script/Principal
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -596,16 +596,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/00-Script/Enemigos/IA ENEMIGOS
+  - Assets/00-Script/Principal
   m_LastFoldersGridSize: -1
   m_LastProjectPath: H:\00 - Grado DAM\Proyecto-DungeonRevenant\Dungeon Revenant
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5c9d0000
-    m_LastClickedID: 40284
-    m_ExpandedIDs: 00000000189c0000bc9c0000e09c0000
+    m_SelectedIDs: 9a9c0000
+    m_LastClickedID: 40090
+    m_ExpandedIDs: 00000000189c0000809c0000949c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -782,7 +782,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0cfbffff
+      m_ExpandedIDs: e4f6ffff0cfbffffca9d00009a9e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

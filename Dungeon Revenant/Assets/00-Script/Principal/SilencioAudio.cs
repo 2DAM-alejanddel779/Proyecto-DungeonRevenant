@@ -26,7 +26,14 @@ public class SilencioAudio : MonoBehaviour
 
     void UpdateIcon()
     {
-        muteButton.image.sprite = isMuted ? muteSprite : sonidoSprite;
+        if (isMuted)
+        {
+            muteButton.image.sprite = muteSprite;
+        }
+        else
+        {
+            muteButton.image.sprite = sonidoSprite;
+        }
     }
 
 }

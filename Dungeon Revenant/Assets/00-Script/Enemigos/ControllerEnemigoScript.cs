@@ -60,7 +60,10 @@ public class ControllerEnemigoScript : MonoBehaviour
         }
         else
         {
-            if (anim) anim.Play("Enemy Hit");
+            if (anim)
+            {
+                anim.Play("Enemy Hit");
+            }
             Invoke(nameof(ResetearGolpeado), 0.2f);
         }
     }

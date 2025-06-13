@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\principal\\usuarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\principal\\usuarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\jugador\\recogermateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\jugador\\recogermateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\configuracioncolision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\jugador\\espadahit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\jugador\\espadahit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\jugador\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\jugador\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\jugador\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\jugador\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\assets\\00-script\\configuracioncolision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\configuracioncolision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\assets\\00-script\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\principal\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\principal\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\principal\\panelusuariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\principal\\panelusuariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\principal\\clickmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\principal\\clickmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\mapas\\teletransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\mapas\\teletransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\mapas\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\mapas\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|h:\\00 - grado dam\\proyecto-dungeonrevenant\\dungeon revenant\\assets\\00-script\\mapas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475FEAC-F482-9206-ED2D-AB87C01381F1}|Assembly-CSharp.csproj|solutionrelative:assets\\00-script\\mapas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +54,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioUI.cs",
-              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\UsuarioUI.cs",
-              "RelativeDocumentMoniker": "Assets\\00-Script\\Principal\\UsuarioUI.cs",
-              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\UsuarioUI.cs",
-              "RelativeToolTip": "Assets\\00-Script\\Principal\\UsuarioUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Jugador\\Singleton.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\Singleton.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Jugador\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T14:55:14.258Z",
+              "WhenOpened": "2025-06-13T15:11:55.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecogerMateria.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\RecogerMateria.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Jugador\\RecogerMateria.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\RecogerMateria.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Jugador\\RecogerMateria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:11:43.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EspadaHit.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\EspadaHit.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Jugador\\EspadaHit.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\EspadaHit.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Jugador\\EspadaHit.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:11:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Jugador\\PlayerController.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Jugador\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Jugador\\PlayerController.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAqwDUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:59:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Mapas\\GameManager.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\GameManager.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Mapas\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:58:18.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Mapas\\GameOverUI.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Mapas\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:58:13.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teletransporte.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\Teletransporte.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Mapas\\Teletransporte.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Mapas\\Teletransporte.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Mapas\\Teletransporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:58:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clickManager.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\clickManager.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Principal\\clickManager.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\clickManager.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Principal\\clickManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:57:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PanelUsuarioManager.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\PanelUsuarioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Principal\\PanelUsuarioManager.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\PanelUsuarioManager.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Principal\\PanelUsuarioManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwFEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:57:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\00-Script\\Principal\\SceneManager.cs",
+              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\Principal\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\00-Script\\Principal\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:56:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ConfiguracionColision.cs",
               "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\ConfiguracionColision.cs",
               "RelativeDocumentMoniker": "Assets\\00-Script\\ConfiguracionColision.cs",
@@ -49,18 +198,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T14:54:59.809Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworkManager.cs",
-              "DocumentMoniker": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\NetworkManager.cs",
-              "RelativeDocumentMoniker": "Assets\\00-Script\\NetworkManager.cs",
-              "ToolTip": "H:\\00 - Grado DAM\\Proyecto-DungeonRevenant\\Dungeon Revenant\\Assets\\00-Script\\NetworkManager.cs",
-              "RelativeToolTip": "Assets\\00-Script\\NetworkManager.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAAwIQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T14:53:08.514Z"
             }
           ]
         }
