@@ -189,7 +189,7 @@ public class PlayerController : MonoBehaviour
     }
 
     //----------------------------------------
-    //    VIDA Y DAÑO
+    //    VIDA, DAÑO Y RECOGIDA
     //----------------------------------------
 
     private void OnTriggerEnter2D(Collider2D other)

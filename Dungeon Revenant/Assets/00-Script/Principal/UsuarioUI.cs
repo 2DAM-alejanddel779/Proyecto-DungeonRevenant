@@ -14,9 +14,7 @@ public class UsuarioUI : MonoBehaviour
         nombreUsuario = nombre;
         nombreUsuarioText.text = nombre;
 
-        botonEliminar.onClick.AddListener(() => {
-            onEliminar?.Invoke(nombreUsuario);
-        });
+        botonEliminar.onClick.AddListener(() => {onEliminar?.Invoke(nombreUsuario);});
     }
 }
 

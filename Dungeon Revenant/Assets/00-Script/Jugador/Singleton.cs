@@ -13,7 +13,8 @@ public class Singleton : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject); // Destruye al duplicado si ya hay uno
+            // Destruye al duplicado si ya hay uno
+            Destroy(gameObject); 
         }
     }
 }

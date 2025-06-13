@@ -24,8 +24,6 @@ namespace ControladorGame
         // Volver al menu principal
         public bool volverAlMenu = false;
 
-
-
         private void Awake()
         {
             if (instance == null)
@@ -77,6 +75,9 @@ namespace ControladorGame
             spawnID = id;
         }
 
+        //----------------------------------------
+        //    GUARDAR Y CARGAR DATOS
+        //----------------------------------------
         public void GuardarDatosJugador(PlayerController p)
         {
             player = p;
@@ -154,7 +155,11 @@ namespace ControladorGame
             spawnID = "";
         }
 
+        //----------------------------------------
+        //    Reinicio del juego
+        //----------------------------------------
 
+        // Reiniciar los enemigos para que vuelvan a aparecer en la siguiente partida
         public void ReiniciarEstadoEnemigos()
         {
             string[] enemigos = { "slime1", "slime2", "slime3", "slime4", "slime5", "slime6", "slime7", "slime8", "rata1", "rata2", "rata3", "rata4", "golem1", "golem2", "golem3", "golem4", "golem5", "golem6", "murcielago1", "murcielago2", "murcielago3", "murcielago4", "murcielago5", "murcielago6", "murcielago7", "cangrejo1", "cangrejo2", "cangrejo3", "cangrejo4", "cangrejo5", "cangrejo6", "cangrejo7", "cangrejo8", "cangrejo9", "cangrejo10", "cabeza1", "cabeza2", "cabeza3", "boss" };

@@ -83,8 +83,6 @@ public class NetworkManager : MonoBehaviour {
         // Crea la solicitud POST al servidor con la URL correcta
         UnityWebRequest request = UnityWebRequest.Post("http://172.22.229.23/Game/checkUser.php", form);
 
-        // IP:PUERTO DEL DOCKER DE PROXMOX
-
         yield return request.SendWebRequest();
 
         // Verificacion de la solicitud

@@ -79,7 +79,7 @@ public class PanelUsuariosManager : MonoBehaviour
         if (www.result == UnityWebRequest.Result.Success)
         {
             Debug.Log("Usuario eliminado");
-            StartCoroutine(CargarUsuarios()); // refrescar
+            StartCoroutine(CargarUsuarios());
         }
         else
         {

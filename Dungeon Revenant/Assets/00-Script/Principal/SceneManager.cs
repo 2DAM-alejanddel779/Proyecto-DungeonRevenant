@@ -50,7 +50,7 @@ public class SceneManager : MonoBehaviour
         var gameManager = FindObjectOfType<ControladorGame.GameManager>();
         if (gameManager != null && gameManager.volverAlMenu)
         {
-       //     Debug.Log("Volviendo del GameOver: mostrando menú principal");
+            Debug.Log("Volviendo del GameOver: mostrando menú principal");
 
             gameManager.ResetGame();
 
@@ -106,7 +106,7 @@ public class SceneManager : MonoBehaviour
             else
             {
                 textoMostrar.text = "Error al conectar con el servidor. Inténtalo más tarde.";
-        //        Debug.LogError("La respuesta del servidor fue nula.");
+                Debug.LogError("La respuesta del servidor fue nula.");
             }
         });
     }
@@ -131,7 +131,7 @@ public class SceneManager : MonoBehaviour
                 else
                 {
                     textoMostrar.text = "Error al conectar con el servidor. Inténtalo más tarde.";
-         //           Debug.LogError("La respuesta del servidor fue nula.");
+                    Debug.LogError("La respuesta del servidor fue nula.");
                 }
             });
         }
@@ -167,7 +167,7 @@ public class SceneManager : MonoBehaviour
 
     public void MostrarRanking()
     {
-     //   Debug.Log("Intentando mostrar el panel de ranking...");
+        Debug.Log("Intentando mostrar el panel de ranking...");
 
         panelRanking.SetActive(true);
         StartCoroutine(CargarRankingDesdePHP());
@@ -184,14 +184,14 @@ public class SceneManager : MonoBehaviour
        //     Debug.LogError(www.error);
             yield break;
         }
-      //  Debug.Log("Respuesta JSON del servidor: " + www.downloadHandler.text);
+        Debug.Log("Respuesta JSON del servidor: " + www.downloadHandler.text);
         // Limpiar contenido anterior
         foreach (Transform hijo in contenidoRanking)
             Destroy(hijo.gameObject);
 
         // Convertimos la respuesta JSON a una lista básica
         RankingSimple[] ranking = JsonConvert.DeserializeObject<RankingSimple[]>(www.downloadHandler.text);
-      //  Debug.Log("Actualizando textoRanking con: " + textoRanking.name);
+        Debug.Log("Actualizando textoRanking con: " + textoRanking.name);
 
         // Comprobar longitud del array
         if (ranking.Length == 0)

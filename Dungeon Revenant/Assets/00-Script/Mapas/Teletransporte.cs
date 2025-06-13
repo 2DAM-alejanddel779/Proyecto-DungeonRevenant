@@ -4,8 +4,8 @@ using ControladorGame;
 
 public class Teletransporte : MonoBehaviour
 {
-    public string nombreDestino;       // Nombre de la escena a cargar
-    public string destinoSpawnID;      // ID del spawn destino en la escena siguiente
+    public string nombreDestino;       
+    public string destinoSpawnID;      
 
     private void OnTriggerEnter2D(Collider2D other)
     {
